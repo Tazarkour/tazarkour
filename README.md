@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tazarkour</h1>
 <h3 align="center">Ethical Hacker/Cybersecurity Enthusiast</h3>
 
-- All of my projects are available at : [https://tazarkour.netlify.com/](https://tazarkour.netlify.com/)
+- All of my writeups are available at : [https://tazarkour.gitbook.io/blog](https://tazarkour.gitbook.io/blog)
 
 - Hack The Box Profile : [https://app.hackthebox.com/profile/1333250](https://app.hackthebox.com/profile/1333250)
 
