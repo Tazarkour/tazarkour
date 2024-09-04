@@ -7,8 +7,6 @@
 
 - How to reach me : **jaouani.walid0@gmail.com**
 
-- Know about my experiences : [https://drive.google.com/file/d/1vxLABEUBQTS2lI1VKcavZpM11uX8ANBf/view](https://drive.google.com/file/d/1vxLABEUBQTS2lI1VKcavZpM11uX8ANBf/view)
-
 - How bad do I code ? **Real bad :(**
 
 <h3 align="left">Connect with me:</h3>
